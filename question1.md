@@ -6,3 +6,12 @@ attention for the [PEP8](https://peps.python.org/pep-0008/)conventions in
 choosing variable names!
 
 **Answer:**
+
+```
+my_boolean_variable = False
+my_float_variable = 3.14
+my_int_variable = 35
+my_string_variable = "Gene 1"
+my_null_variable = None
+```
+
